@@ -31,3 +31,6 @@ Read about.
 4. Check: execute `setImmediate()` callbacks
 5. Close Callbacks: execute all 'close' event callbacks
 6. `process.exit`
+
+## Section 5
+### Middleware
